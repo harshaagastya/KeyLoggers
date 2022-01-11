@@ -16,3 +16,7 @@ Need to install pynput library
            
            
            -- pip install pynput #for Linux
+           
+           
+           
+You need to create text file in order to store keys pressed in your directory.
